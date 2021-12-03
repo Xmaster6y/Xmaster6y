@@ -1,16 +1,17 @@
-### Hi there 👋
+# Greetings!
 
-<!--
-**Xmaster6y/Xmaster6y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yoann Poupart, I am a student at the ENS de Lyon.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### OS
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=2bbc8a)
+
+### :bar_chart: Data Science
+
+### :bar_chart: Data Visualisation
+
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
