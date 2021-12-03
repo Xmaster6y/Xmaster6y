@@ -1,6 +1,6 @@
 # Greetings!
 
-My name is Yoann Poupart, I am a student at the ENS de Lyon.
+My name is Yoann Poupart, I am a student at the ENS de Lyon. I am currently enrolled in Master of Science in Complex Networks.
 
 ## 🔧 Technologies & Tools
 
