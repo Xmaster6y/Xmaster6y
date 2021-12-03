@@ -1,15 +1,17 @@
 # Greetings :wave:!
 
-My name is Yoann Poupart, I am a student at the ENS de Lyon:closed_book:. I am currently enrolled in Master of Science in Complex Networks:spider_web:.
+Welcome on my github profile, my name is Yoann Poupart, I am a student at the ENS de Lyon:closed_book:. I am currently enrolled in Master of Science in Complex Networks:spider_web:.
 
 ## 🔧 Technologies & Tools
 
 ### OS
 
-<a href="https://github.com/">
-  <img alt="Tests Passing" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400"/>
+<a href="https://linux.org/">
+  <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400"/>
 </a>
-![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff)
+<a href="https://archlinux.org/">
+  <img alt="Arch linux" src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff"/>
+</a>
 
 ### Programming Languages
 
