@@ -33,3 +33,8 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student at the EN
 ![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/App-Gephi-informational?style=flat&logo=gephi&logoColor=white&color=2bbc8a)
+
+
+## Support
+
+Feel free to send me bitcoins at this address: lol!
