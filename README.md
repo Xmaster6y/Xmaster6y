@@ -6,13 +6,13 @@ My name is Yoann Poupart, I am a student at the ENS de Lyon. I am currently enro
 
 ### OS
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400)
+![link](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff)
 
 ### Programming Languages
 
-![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+-![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: 
+- ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 
 ### :chart_with_upwards_trend: Data Science
 
