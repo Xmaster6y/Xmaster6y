@@ -1,6 +1,6 @@
-# Greetings!
+# Greetings :wave:!
 
-My name is Yoann Poupart, I am a student at the ENS de Lyon. I am currently enrolled in Master of Science in Complex Networks.
+My name is Yoann Poupart, I am a student at the ENS de Lyon:closed_book:. I am currently enrolled in Master of Science in Complex Networks:spider_web:.
 
 ## 🔧 Technologies & Tools
 
@@ -9,7 +9,6 @@ My name is Yoann Poupart, I am a student at the ENS de Lyon. I am currently enro
 <a href="https://github.com/">
   <img alt="Tests Passing" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400"/>
 </a>
-
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff)
 
 ### Programming Languages
