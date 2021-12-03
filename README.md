@@ -6,7 +6,7 @@ My name is Yoann Poupart, I am a student at the ENS de Lyon.
 
 ### OS
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color= ffe400)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400)
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff)
 
 ### Programming Languages
