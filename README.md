@@ -27,12 +27,15 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student at the EN
 
 ### :chart_with_upwards_trend: Data Science
 
-- ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=da321b)
-![](https://img.shields.io/badge/Lib-Sklearn-informational?style=flat&logo=sklearn&logoColor=white&color=da321b)
+- ![](https://img.shields.io/badge/Lib-Sklearn-informational?style=flat&logo=sklearn&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=da321b)
 
 - ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Networkx-informational?style=flat&logo=networkx&logoColor=white&color=2bbc8a)
 
 ### :bar_chart: Data Visualisation
 
