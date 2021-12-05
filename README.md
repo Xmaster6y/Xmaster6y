@@ -19,7 +19,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student at the EN
 - ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) :black_circle: :black_circle: :black_circle: 
 - ![](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-JS-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 :black_circle: :black_circle: :black_circle: 
 
 ### :chart_with_upwards_trend: Data Science
