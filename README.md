@@ -27,7 +27,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student at the EN
 
 ### :chart_with_upwards_trend: Data Science
 
-- ![](https://img.shields.io/badge/Lib-Scikit-Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=da321b)
+- ![](https://img.shields.io/badge/Lib-Scikit\-Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=da321b)
