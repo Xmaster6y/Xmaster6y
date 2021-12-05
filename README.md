@@ -6,11 +6,14 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student at the EN
 
 ### OS
 
+<a href="https://archlinux.org/">
+  <img alt="Arch linux" src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff"/>
+</a>
 <a href="https://linux.org/">
   <img alt="Linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffe400"/>
 </a>
-<a href="https://archlinux.org/">
-  <img alt="Arch linux" src="https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=0087ff"/>
+<a href="https://www.microsoft.com/fr-fr/windows">
+  <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0087ff"/>
 </a>
 
 ### Programming Languages
