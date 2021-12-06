@@ -20,11 +20,11 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 
 - ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) :black_circle: :black_circle: :black_circle: :black_circle: :black_circle: 
 - ![](https://img.shields.io/badge/Lang-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a) :black_circle: :black_circle: :black_circle: 
-- ![](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Lang-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Lang-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 :black_circle: :black_circle: :black_circle: 
-- ![](https://img.shields.io/badge/Lang-Bash-informational?style=flat&logo=sh&logoColor=white&color=2bbc8a) 
+- ![](https://img.shields.io/badge/Lang-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Lang-Ocaml-informational?style=flat&logo=ocaml&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 :black_circle: :black_circle:  
