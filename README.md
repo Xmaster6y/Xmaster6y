@@ -26,7 +26,8 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 :black_circle: :black_circle: :black_circle: 
 - ![](https://img.shields.io/badge/Lang-Bash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Lang-Ocaml-informational?style=flat&logo=caml&logoColor=white&color=2bbc8a)
-:black_circle: :black_circle: :black_circle: 
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+:black_circle: :black_circle:  
 
 ### :chart_with_upwards_trend: Data Science
 
@@ -53,6 +54,8 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 
 - ![](https://img.shields.io/badge/App-Burp-informational?style=flat&logo=burp&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Tool-Gobuster-informational?style=flat&logo=gobuster&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Tool-Requestbin-informational?style=flat&logo=requestbin&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&color=da321b)
 
 - ![](https://img.shields.io/badge/Tool-Metaslpoit-informational?style=flat&logo=rapidseven&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=da321b)
