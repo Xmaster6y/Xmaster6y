@@ -35,7 +35,6 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=da321b)
-![](https://img.shields.io/badge/Lib-GymAI-informational?style=flat&logo=gymai&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=da321b)
 
 - ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
