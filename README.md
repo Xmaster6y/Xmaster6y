@@ -49,15 +49,15 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 - ![](https://img.shields.io/badge/App-Gephi-informational?style=flat&logo=gephi&logoColor=white&color=2bbc8a)
 
 
-### :card_box: Data Collection
+### :card_file_box: Data Collection
 
 - ![](https://img.shields.io/badge/Lib-Request-informational?style=flat&logo=request&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-RequestHTML-informational?style=flat&logo=request&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Scrapy-informational?style=flat&logo=scrapy&logoColor=white&color=2bbc8a)
 
-- ![](https://img.shields.io/badge/Tool-curl-informational?style=flat&logo=gnu-curl&logoColor=white&color=2bbc8a)
+- ![](https://img.shields.io/badge/Tool-Curl-informational?style=flat&logo=curl&logoColor=white&color=2bbc8a)
 
-### :computer: Cyber-Security
+### :shield: Cyber-Security
 
 - ![](https://img.shields.io/badge/App-Burp-informational?style=flat&logo=burp&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Tool-Gobuster-informational?style=flat&logo=gobuster&logoColor=white&color=da321b)
@@ -66,6 +66,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 
 - ![](https://img.shields.io/badge/Tool-Metaslpoit-informational?style=flat&logo=rapidseven&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Tool-Nmap-informational?style=flat&logo=nmap&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Tool-Shell-informational?style=flat&logo=powershell&logoColor=white&color=da321b)
 
 - ![](https://img.shields.io/badge/Tool-Impacket-informational?style=flat&logo=impacket&logoColor=white&color=ffe400)
 ![](https://img.shields.io/badge/App-Wireshark-informational?style=flat&logo=shark&logoColor=white&color=ffe400)
