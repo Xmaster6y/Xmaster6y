@@ -49,11 +49,11 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 - ![](https://img.shields.io/badge/App-Gephi-informational?style=flat&logo=gephi&logoColor=white&color=2bbc8a)
 
 
-### :bar_chart: Data Visualisation
+### :card_box: Data Collection
 
 - ![](https://img.shields.io/badge/Lib-Request-informational?style=flat&logo=request&logoColor=white&color=2bbc8a)
-- - ![](https://img.shields.io/badge/Lib-RequestHTML-informational?style=flat&logo=request&logoColor=white&color=2bbc8a)
-- - ![](https://img.shields.io/badge/Lib-Scrapy-informational?style=flat&logo=scrapy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-RequestHTML-informational?style=flat&logo=request&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Scrapy-informational?style=flat&logo=scrapy&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Tool-curl-informational?style=flat&logo=gnu-curl&logoColor=white&color=2bbc8a)
 
