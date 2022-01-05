@@ -40,7 +40,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Networkx-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-GraphTool-informational?style=flat&logo=graphql-tool&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-GraphTool-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
 
 ### :bar_chart: Data Visualisation
 
