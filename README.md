@@ -45,6 +45,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 
 - ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-GraphTools-informational?style=flat&logo=graph&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/App-Gephi-informational?style=flat&logo=gephi&logoColor=white&color=2bbc8a)
 
