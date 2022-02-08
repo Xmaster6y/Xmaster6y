@@ -80,7 +80,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 - ![](https://img.shields.io/badge/Tool-BinWalk-informational?style=flat&logo=binwalk&logoColor=white&color=0087ff)
 ![](https://img.shields.io/badge/Tool-GDB-informational?style=flat&logo=gdb&logoColor=white&color=0087ff)
 
-<--
+<!--
 ### :shield: OSINT
 
 In progress
