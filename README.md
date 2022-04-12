@@ -80,11 +80,25 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 - ![](https://img.shields.io/badge/Tool-BinWalk-informational?style=flat&logo=binwalk&logoColor=white&color=0087ff)
 ![](https://img.shields.io/badge/Tool-GDB-informational?style=flat&logo=gdb&logoColor=white&color=0087ff)
 
-<!--
 ### :shield: OSINT
 
-In progress
--->
+- ![](https://img.shields.io/badge/Tool-Pimeyes-informational?style=flat&logo=eye&logoColor=white&color=ffe400)
+![](https://img.shields.io/badge/Tool-Yandex-informational?style=flat&logo=yandex&logoColor=white&color=ffe400)
+![](https://img.shields.io/badge/Tool-Maps-informational?style=flat&logo=google&logoColor=white&color=ffe400)
+![](https://img.shields.io/badge/Tool-Snapchat-informational?style=flat&logo=snapchat&logoColor=white&color=ffe400)
+
+### :cloud: Cloud
+
+- ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=9170ad)
+![](https://img.shields.io/badge/Tool-OVH-informational?style=flat&logo=ovh&logoColor=white&color=0087ff)
+![](https://img.shields.io/badge/Tool-GoogleCloud-informational?style=flat&logo=google&logoColor=white&color=ffe400)
+
+:small_red_triangle_down: **_Still learning:_**
+
+-  ![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffe400)
+![](https://img.shields.io/badge/Tool-Azure-informational?style=flat&logo=azure&logoColor=white&color=0087ff)
+
+
 ## Support
 
-Feel free to send me **_BTC_** at this address: **_bc1ql9eej6kem3dvsc2y7ear6ge0rldq5z8dnf4cal_**
+Feel free to pay me :coffee: with this **_BTC_** address: **_bc1ql9eej6kem3dvsc2y7ear6ge0rldq5z8dnf4cal_**
