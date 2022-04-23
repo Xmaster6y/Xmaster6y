@@ -101,4 +101,4 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 
 ## Support
 
-Feel free to pay me :coffee: with this **_BTC_** address: **_bc1ql9eej6kem3dvsc2y7ear6ge0rldq5z8dnf4cal_**
+Feel free to pay me a :coffee: with this **_BTC_** address: **_bc1ql9eej6kem3dvsc2y7ear6ge0rldq5z8dnf4cal_**
