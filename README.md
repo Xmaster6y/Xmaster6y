@@ -91,7 +91,7 @@ Welcome on my github profile, my name is Yoann Poupart, I am a student from the 
 ### :cloud: Cloud
 
 - ![](https://img.shields.io/badge/Service-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=9170ad)
-![](https://img.shields.io/badge/Service-GoogleCloud-informational?style=flat&logo=google&logoColor=white&color=ffe400)
+![](https://img.shields.io/badge/Service-GoogleCloud-informational?style=flat&logo=google&logoColor=white&color=da321b)
 
 - **_Still learning:_** :small_red_triangle_down: 
 ![](https://img.shields.io/badge/Service-OVH-informational?style=flat&logo=ovh&logoColor=white&color=0087ff)
