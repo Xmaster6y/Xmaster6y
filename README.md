@@ -1,6 +1,6 @@
 # Greetings :wave:!
 
-Welcome to my github profile, my name is Yoann Poupart, I am a student from the ENS de Lyon:closed_book:. I am currently enrolled in a Master of Science on Complex Systems:spider_web:.
+Welcome to my GitHub profile; my name is Yoann Poupart; I am a student from the ENS de Lyon:closed_book:. I am currently enrolled in a Master of Science on Complex Systems:spider_web:. <a href="file:///home/xmaster/Documents/Ongoing_projects/Professional_page/files/Resume_Yoann_Poupart.pdf">Here</a> is a more comprehensive resume.
 
 ## 🔧 Technologies & Tools
 
