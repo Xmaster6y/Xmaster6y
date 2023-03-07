@@ -1,6 +1,8 @@
 # Greetings :wave:!
 
-Welcome to my GitHub profile; my name is Yoann Poupart; I am a student from the ENS de Lyon:closed_book:. I am currently enrolled in a Master of Science on Complex Systems:spider_web:. <a href="file:///home/xmaster/Documents/Ongoing_projects/Professional_page/files/Resume_Yoann_Poupart.pdf">Here</a> is a more comprehensive resume.
+Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student from the ENS de Lyon:closed_book:. I am currently enrolled in an aprenticeship with Ekser and Openclassrooms. <a href="file:///home/xmaster/Documents/Ongoing_projects/Professional_page/files/Resume_Yoann_Poupart.pdf">Here</a> is a more comprehensive resume, feel free to connect on <a href="https://www.linkedin.com/in/yoann-poupart-677b9a1b7/">LinkedIn</a>.
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=xmaster6y&show_icons=true)](https://github.com/xmaster6y/xmaster6y)
 
 ## 🔧 Technologies & Tools
 
