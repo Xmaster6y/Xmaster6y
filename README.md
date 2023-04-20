@@ -37,7 +37,8 @@ Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student fr
 ![](https://img.shields.io/badge/Lib-Keras-informational?style=flat&logo=keras&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Lib-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=da321b)
-![](https://img.shields.io/badge/Lib-OpenAI-informational?style=flat&logo=openai&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Lib-Gymnasium-informational?style=flat&logo=openaigym&logoColor=white&color=da321b)
+![](https://img.shields.io/badge/Lib-Transformers-informational?style=flat&logoColor=white&color=da321b)
 
 - ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
@@ -49,6 +50,7 @@ Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student fr
 
 - ![](https://img.shields.io/badge/Lib-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a)
 
 
 - ![](https://img.shields.io/badge/App-Gephi-informational?style=flat&logo=gephi&logoColor=white&color=2bbc8a)
@@ -61,6 +63,20 @@ Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student fr
 ![](https://img.shields.io/badge/Lib-Scrapy-informational?style=flat&logo=scrapy&logoColor=white&color=2bbc8a)
 
 - ![](https://img.shields.io/badge/Tool-Curl-informational?style=flat&logo=curl&logoColor=white&color=2bbc8a)
+
+### :cloud: Model API
+
+- ![](https://img.shields.io/badge/Lib-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+
+### :cloud: API Deployment
+
+- ![](https://img.shields.io/badge/Service-Docker-informational?style=flat&logo=docker&logoColor=white&color=0087ff)
+![](https://img.shields.io/badge/Service-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0087ff)
+![](https://img.shields.io/badge/Service-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=0087ff)
+
+- ![](https://img.shields.io/badge/Service-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=9170ad)
+![](https://img.shields.io/badge/Service-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffe400)
 
 ### :shield: Cyber-Security
 
@@ -90,16 +106,6 @@ Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student fr
 ![](https://img.shields.io/badge/Data-Maps-informational?style=flat&logo=googlemaps&logoColor=white&color=da321b)
 ![](https://img.shields.io/badge/Data-OSM-informational?style=flat&logo=openstreetmap&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-Snapchat-informational?style=flat&logo=snapchat&logoColor=white&color=ffe400)
-
-### :cloud: Cloud
-
-- ![](https://img.shields.io/badge/Service-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=9170ad)
-![](https://img.shields.io/badge/Service-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffe400)
-
-- **_Still learning:_** :small_red_triangle_down: 
-![](https://img.shields.io/badge/Service-GoogleCloud-informational?style=flat&logo=google&logoColor=white&color=da321b)
-![](https://img.shields.io/badge/Service-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=0087ff)
-
 
 ## Support
 
