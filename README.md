@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student from the ENS de Lyon:closed_book:. I am currently enrolled in an aprenticeship with Ekser and Openclassrooms. <a href="https://perso.ens-lyon.fr/yoann.poupart/files/Resume_Yoann_Poupart.pdf">Here</a> is a more comprehensive resume, feel free to connect on <a href="https://www.linkedin.com/in/yoann-poupart/">LinkedIn</a>.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=xmaster6y&show_icons=true&theme=tokyonight)](https://github.com/xmaster6y/xmaster6y)
-
 ## 🔧 Technologies & Tools
 
 ### OS
