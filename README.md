@@ -74,7 +74,7 @@ Welcome to my GitHub profile; my name is Yoann Poupart; I am a former student fr
 ![](https://img.shields.io/badge/Service-Azure-informational?style=flat&logo=azuredevops&logoColor=white&color=0087ff)
 
 - ![](https://img.shields.io/badge/Service-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=9170ad)
-![](https://img.shields.io/badge/Service-AWS-informational?style=flat&logo=aws&logoColor=white&color=ffe400)
+![](https://img.shields.io/badge/Service-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=ffe400)
 
 ### :shield: Cyber-Security
 
